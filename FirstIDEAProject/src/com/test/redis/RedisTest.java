@@ -35,7 +35,7 @@ public class RedisTest {
 
 
     public String toString2() {
-        return super.toString();
+        return "v1";
     }
 
 
