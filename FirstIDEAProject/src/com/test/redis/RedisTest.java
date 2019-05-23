@@ -38,6 +38,9 @@ public class RedisTest {
         return "v1";
     }
 
+    public String toString2() {
+        return "添加v2";
+    }
 
 }
 
